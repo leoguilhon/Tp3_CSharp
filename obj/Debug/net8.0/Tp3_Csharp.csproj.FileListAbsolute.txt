@@ -1,0 +1,14 @@
+C:\Users\Leonardo\source\repos\Tp3_Csharp\bin\Debug\net8.0\Tp3_Csharp.exe
+C:\Users\Leonardo\source\repos\Tp3_Csharp\bin\Debug\net8.0\Tp3_Csharp.deps.json
+C:\Users\Leonardo\source\repos\Tp3_Csharp\bin\Debug\net8.0\Tp3_Csharp.runtimeconfig.json
+C:\Users\Leonardo\source\repos\Tp3_Csharp\bin\Debug\net8.0\Tp3_Csharp.dll
+C:\Users\Leonardo\source\repos\Tp3_Csharp\bin\Debug\net8.0\Tp3_Csharp.pdb
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\Tp3_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\Tp3_Csharp.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\Tp3_Csharp.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\Tp3_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\Tp3_Csharp.dll
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\refint\Tp3_Csharp.dll
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\Tp3_Csharp.pdb
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\Tp3_Csharp.genruntimeconfig.cache
+C:\Users\Leonardo\source\repos\Tp3_Csharp\obj\Debug\net8.0\ref\Tp3_Csharp.dll
